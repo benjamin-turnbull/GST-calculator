@@ -10,5 +10,5 @@ int main(void) {
 
     tax = price / 10.0;
 
-    printf("With GST added: %d", price + tax);
+    printf("With GST added: %d \n", price + tax);
 }
